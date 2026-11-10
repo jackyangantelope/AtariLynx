@@ -1,0 +1,4 @@
+deps/handy
+deps/hdmi
+deps/fatfs
+deps/pico_shared
